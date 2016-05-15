@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EDD0785F-7D6D-3C83-8211-F0F54D71BFD5}") = "Star Force", "Assembly-CSharp.csproj", "{7DC146D7-B77A-78B7-6F01-F095313D665A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC146D7-B77A-78B7-6F01-F095313D665A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC146D7-B77A-78B7-6F01-F095313D665A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC146D7-B77A-78B7-6F01-F095313D665A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC146D7-B77A-78B7-6F01-F095313D665A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

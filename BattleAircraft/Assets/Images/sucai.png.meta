@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: efe0d0421b6a09945a12fa1a30b234ee
+timeCreated: 1462434938
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sucai_0
+    21300002: sucai_1
+    21300004: sucai_2
+    21300006: sucai_3
+    21300008: sucai_4
+    21300010: sucai_5
+    21300012: sucai_6
+    21300014: sucai_7
+    21300016: sucai_8
+    21300018: sucai_9
+    21300020: sucai_10
+    21300022: sucai_11
+    21300024: sucai_12
+    21300026: sucai_13
+    21300028: sucai_14
+    21300030: sucai_15
+    21300032: sucai_16
+    21300034: sucai_17
+    21300036: sucai_18
+    21300038: sucai_19
+    21300040: sucai_20
+    21300042: sucai_21
+    21300044: sucai_22
+    21300046: sucai_23
+    21300048: sucai_24
+    21300050: sucai_25
+    21300052: sucai_26
+    21300054: sucai_27
+    21300056: sucai_28
+    21300058: sucai_29
+    21300060: sucai_30
+    21300062: sucai_31
+    21300064: sucai_32
+    21300066: sucai_33
+    21300068: sucai_34
+    21300070: sucai_35
+    21300072: sucai_36
+    21300074: sucai_37
+    21300076: sucai_38
+    21300078: sucai_39
+    21300080: sucai_40
+    21300082: sucai_41
+    21300084: sucai_42
+    21300086: sucai_43
+    21300088: sucai_44
+    21300090: sucai_45
+    21300092: sucai_46
+    21300094: sucai_47
+    21300096: sucai_48
+    21300098: sucai_49
+    21300100: sucai_50
+    21300102: sucai_51
+    21300104: sucai_52
+    21300106: sucai_53
+    21300108: sucai_54
+    21300110: sucai_55
+    21300112: sucai_56
+    21300114: sucai_57
+    21300116: sucai_58
+    21300118: sucai_59
+    21300120: sucai_60
+    21300122: sucai_61
+    21300124: sucai_62
+    21300126: sucai_63
+    21300128: sucai_64
+    21300130: sucai_65
+    21300132: sucai_66
+    21300134: sucai_67
+    21300136: sucai_68
+    21300138: sucai_69
+    21300140: sucai_70
+    21300142: sucai_71
+    21300144: sucai_72
+    21300146: sucai_73
+    21300148: sucai_74
+    21300150: sucai_75
+    21300152: sucai_76
+    21300154: sucai_77
+    21300156: sucai_78
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sucai_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 33
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 436}
+        - {x: -16.5, y: 428}
+        - {x: -16.5, y: -427}
+        - {x: -9.5, y: -436}
+        - {x: 9.5, y: -436}
+        - {x: 16.5, y: -428}
+        - {x: 16.5, y: 429}
+        - {x: 13.5, y: 436}
+    - name: sucai_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 158
+        width: 45
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 433}
+        - {x: -14.5, y: 433}
+        - {x: -22.5, y: 428}
+        - {x: -22.5, y: -278}
+        - {x: -14.5, y: -430}
+        - {x: -10.5, y: -433}
+        - {x: 9.5, y: -433}
+        - {x: 13.5, y: -432}
+        - {x: 18.5, y: -420}
+        - {x: 22.5, y: -293}
+        - {x: 22.5, y: 418}
+    - name: sucai_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 42
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 433}
+        - {x: -12, y: 433}
+        - {x: -18, y: 432}
+        - {x: -21, y: 235}
+        - {x: -21, y: -249}
+        - {x: -13, y: -430}
+        - {x: -11, y: -433}
+        - {x: 21, y: -433}
+        - {x: 21, y: -7}
+        - {x: 17, y: 426}
+    - name: sucai_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 156
+        width: 23
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 718
+        width: 76
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 153}
+        - {x: -38, y: -139}
+        - {x: -19, y: -153}
+        - {x: 38, y: -153}
+        - {x: 38, y: 153}
+    - name: sucai_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 794
+        width: 116
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 115}
+        - {x: -58, y: 115}
+        - {x: -58, y: -85}
+        - {x: -34, y: -115}
+        - {x: 38, y: -115}
+        - {x: 58, y: -52}
+        - {x: 58, y: 78}
+    - name: sucai_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 808
+        width: 52
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 106}
+        - {x: -26, y: 72}
+        - {x: -26, y: -46}
+        - {x: -14, y: -106}
+        - {x: 8, y: -106}
+        - {x: 26, y: -90}
+        - {x: 26, y: 91}
+        - {x: 12, y: 106}
+    - name: sucai_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 827
+        width: 29
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 827
+        width: 27
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 827
+        width: 27
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 853
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 83.5}
+        - {x: -25, y: 49.5}
+        - {x: -25, y: -36.5}
+        - {x: -11, y: -83.5}
+        - {x: 14, y: -83.5}
+        - {x: 18, y: -81.5}
+        - {x: 25, y: -21.5}
+        - {x: 25, y: 51.5}
+        - {x: 8, y: 83.5}
+      - - {x: 8, y: 68.5}
+        - {x: 13, y: 52.5}
+        - {x: 19, y: 52.5}
+        - {x: 19, y: 65.5}
+        - {x: 17, y: 78.5}
+        - {x: 13, y: 83.5}
+        - {x: 10, y: 83.5}
+        - {x: 8, y: 82.5}
+      - - {x: -12, y: 80.5}
+        - {x: -18, y: 74.5}
+        - {x: -18, y: 59.5}
+        - {x: -12, y: 59.5}
+        - {x: -9, y: 65.5}
+        - {x: -9, y: 79.5}
+        - {x: -10, y: 80.5}
+    - name: sucai_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 854
+        width: 53
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 85}
+        - {x: -23.5, y: 85}
+        - {x: -26.5, y: 83}
+        - {x: -26.5, y: 17}
+        - {x: -24.5, y: -4}
+        - {x: 14.5, y: -85}
+        - {x: 25.5, y: -85}
+        - {x: 26.5, y: -84}
+        - {x: 26.5, y: -32}
+        - {x: 17.5, y: 75}
+      - - {x: 6.5, y: -63}
+        - {x: 5.5, y: -65}
+        - {x: 5.5, y: -68}
+        - {x: 7.5, y: -69}
+        - {x: 10.5, y: -69}
+        - {x: 11.5, y: -68}
+        - {x: 11.5, y: -63}
+      - - {x: -0.5, y: -46}
+        - {x: -4.5, y: -46}
+        - {x: -5.5, y: -48}
+        - {x: -6.5, y: -52}
+        - {x: -4.5, y: -54}
+        - {x: -1.5, y: -54}
+        - {x: 1.5, y: -51}
+        - {x: 1.5, y: -47}
+      - - {x: -4.5, y: -46}
+        - {x: -0.5, y: -46}
+        - {x: 1.5, y: -45}
+        - {x: 1.5, y: -42}
+        - {x: 0.5, y: -40}
+        - {x: -3.5, y: -40}
+        - {x: -5.5, y: -41}
+        - {x: -5.5, y: -45}
+      - - {x: 9.5, y: 65}
+        - {x: 9.5, y: 59}
+        - {x: 13.5, y: 59}
+        - {x: 15.5, y: 60}
+        - {x: 15.5, y: 65}
+    - name: sucai_20
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 827
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 798
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 748
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 39.5}
+        - {x: -18.5, y: 38.5}
+        - {x: -18.5, y: -39.5}
+        - {x: 10.5, y: -39.5}
+        - {x: 18.5, y: -32.5}
+        - {x: 18.5, y: 28.5}
+        - {x: 5.5, y: 39.5}
+    - name: sucai_23
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 736
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 44}
+        - {x: -30.5, y: 44}
+        - {x: -42.5, y: 38}
+        - {x: -42.5, y: -30}
+        - {x: -20.5, y: -44}
+        - {x: 17.5, y: -44}
+        - {x: 31.5, y: -39}
+        - {x: 42.5, y: -22}
+        - {x: 42.5, y: 28}
+        - {x: 41.5, y: 33}
+    - name: sucai_24
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 741
+        width: 36
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 52.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: -13.5}
+        - {x: -4, y: -52.5}
+        - {x: 18, y: -52.5}
+        - {x: 18, y: 42.5}
+        - {x: 7, y: 52.5}
+    - name: sucai_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 722
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -32}
+        - {x: 28, y: 9}
+        - {x: 19, y: 33}
+        - {x: 11, y: 36}
+        - {x: 10, y: 36}
+        - {x: 4, y: 20}
+        - {x: -10, y: 36}
+        - {x: -24, y: 36}
+        - {x: -28, y: 17}
+        - {x: -28, y: -32}
+        - {x: -20, y: -36}
+        - {x: -9, y: -36}
+        - {x: -4, y: -30}
+        - {x: 6, y: -36}
+        - {x: 19, y: -36}
+    - name: sucai_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 746
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 729
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_32
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 474
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 47}
+        - {x: 9.5, y: 45}
+        - {x: 10.5, y: 36}
+        - {x: 13.5, y: 29}
+        - {x: 11.5, y: 31}
+        - {x: 8.5, y: 49}
+        - {x: -5.5, y: 49}
+        - {x: -13.5, y: 41}
+        - {x: -19.5, y: 7}
+        - {x: -19.5, y: -12}
+        - {x: -11.5, y: -43}
+        - {x: -7.5, y: -46}
+        - {x: -2.5, y: -49}
+        - {x: 12.5, y: -49}
+        - {x: 18.5, y: -38}
+        - {x: 19.5, y: -14}
+        - {x: 19.5, y: 34}
+    - name: sucai_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 428
+        width: 43
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 143.5}
+        - {x: -3.5, y: 143.5}
+        - {x: -12.5, y: 137.5}
+        - {x: -21.5, y: 45.5}
+        - {x: -21.5, y: -90.5}
+        - {x: -10.5, y: -143.5}
+        - {x: 6.5, y: -143.5}
+        - {x: 21.5, y: -125.5}
+        - {x: 21.5, y: 138.5}
+    - name: sucai_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 488
+        width: 135
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.5, y: 38}
+        - {x: 67.5, y: 87}
+        - {x: 50.5, y: 115}
+        - {x: -62.5, y: 115}
+        - {x: -67.5, y: 114}
+        - {x: -67.5, y: 42}
+        - {x: -66.5, y: 34}
+        - {x: -67.5, y: 17}
+        - {x: -67.5, y: -115}
+        - {x: 53.5, y: -115}
+        - {x: 67.5, y: -101}
+        - {x: 67.5, y: -81}
+        - {x: 62.5, y: -53}
+    - name: sucai_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 530
+        width: 56
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 99.5}
+        - {x: -28, y: 60.5}
+        - {x: -28, y: -81.5}
+        - {x: -14, y: -99.5}
+        - {x: 18, y: -99.5}
+        - {x: 28, y: -46.5}
+        - {x: 28, y: 59.5}
+        - {x: 14, y: 99.5}
+      - - {x: -28, y: 99.5}
+        - {x: -28, y: 95.5}
+        - {x: -7, y: 95.5}
+        - {x: -7, y: 99.5}
+    - name: sucai_36
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 531
+        width: 27
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 558
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 83.5}
+        - {x: -25, y: 49.5}
+        - {x: -25, y: -43.5}
+        - {x: -13, y: -83.5}
+        - {x: 12, y: -83.5}
+        - {x: 16, y: -80.5}
+        - {x: 25, y: -3.5}
+        - {x: 25, y: 48.5}
+        - {x: 7, y: 83.5}
+      - - {x: 7, y: 68.5}
+        - {x: 12, y: 52.5}
+        - {x: 18, y: 52.5}
+        - {x: 18, y: 65.5}
+        - {x: 16, y: 78.5}
+        - {x: 12, y: 83.5}
+        - {x: 9, y: 83.5}
+        - {x: 7, y: 82.5}
+      - - {x: -13, y: 80.5}
+        - {x: -19, y: 74.5}
+        - {x: -19, y: 59.5}
+        - {x: -13, y: 59.5}
+        - {x: -10, y: 65.5}
+        - {x: -10, y: 79.5}
+        - {x: -11, y: 80.5}
+    - name: sucai_38
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 576
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 75}
+        - {x: -23, y: 1}
+        - {x: -22, y: -10}
+        - {x: 16, y: -75}
+        - {x: 23, y: -75}
+        - {x: 23, y: 32}
+        - {x: 22, y: 51}
+        - {x: -4, y: 75}
+    - name: sucai_39
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 576
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 75}
+        - {x: -23, y: 54}
+        - {x: -23, y: -75}
+        - {x: -17, y: -75}
+        - {x: 23, y: -22}
+        - {x: 23, y: 75}
+    - name: sucai_41
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 440
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 55}
+        - {x: -19, y: 55}
+        - {x: -19, y: -22}
+        - {x: -11, y: -55}
+        - {x: 19, y: -55}
+        - {x: 19, y: 3}
+        - {x: 2, y: 53}
+    - name: sucai_42
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 440
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 55}
+        - {x: -19, y: 12}
+        - {x: -19, y: -55}
+        - {x: -2, y: -55}
+        - {x: 19, y: -28}
+        - {x: 19, y: 55}
+    - name: sucai_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 441
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 55.5}
+        - {x: 5, y: 60.5}
+        - {x: -7, y: 60.5}
+        - {x: -21, y: 40.5}
+        - {x: -21, y: -38.5}
+        - {x: -15, y: -60.5}
+        - {x: 21, y: -60.5}
+        - {x: 21, y: 59.5}
+    - name: sucai_44
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 445
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 62}
+        - {x: 13, y: 35}
+        - {x: -28, y: 62}
+        - {x: -40, y: 62}
+        - {x: -44, y: 45}
+        - {x: -44, y: -14}
+        - {x: -43, y: -18}
+        - {x: -12, y: -62}
+        - {x: 10, y: -62}
+        - {x: 44, y: -19}
+        - {x: 44, y: 58}
+        - {x: 38, y: 62}
+    - name: sucai_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 266
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 75}
+        - {x: -23, y: 1}
+        - {x: -22, y: -10}
+        - {x: 16, y: -75}
+        - {x: 23, y: -75}
+        - {x: 23, y: 32}
+        - {x: 22, y: 51}
+        - {x: -4, y: 75}
+    - name: sucai_52
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 273
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 75}
+        - {x: -23, y: -5}
+        - {x: -3, y: -75}
+        - {x: 23, y: -75}
+        - {x: 23, y: -17}
+        - {x: 18, y: 49}
+        - {x: 6, y: 70}
+        - {x: -10, y: 75}
+    - name: sucai_53
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 267
+        width: 46
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 85}
+        - {x: -23, y: 70}
+        - {x: -23, y: 4}
+        - {x: -13, y: -37}
+        - {x: 8, y: -85}
+        - {x: 19, y: -85}
+        - {x: 23, y: -72}
+        - {x: 23, y: 58}
+        - {x: 7, y: 85}
+      - - {x: 0, y: -63}
+        - {x: -2, y: -65}
+        - {x: -2, y: -67}
+        - {x: 0, y: -69}
+        - {x: 2, y: -69}
+        - {x: 4, y: -67}
+        - {x: 4, y: -65}
+        - {x: 2, y: -63}
+      - - {x: -12, y: -45}
+        - {x: -14, y: -49}
+        - {x: -14, y: -52}
+        - {x: -12, y: -53}
+        - {x: -8, y: -53}
+        - {x: -6, y: -51}
+        - {x: -6, y: -47}
+        - {x: -8, y: -45}
+      - - {x: -13, y: -40}
+        - {x: -13, y: -42}
+        - {x: -10, y: -45}
+        - {x: -8, y: -45}
+        - {x: -6, y: -43}
+        - {x: -8, y: -38}
+        - {x: -11, y: -38}
+      - - {x: 10, y: 62}
+        - {x: 8, y: 61}
+        - {x: 8, y: 56}
+        - {x: 14, y: 56}
+        - {x: 14, y: 62}
+    - name: sucai_54
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 368
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 45}
+        - {x: 10.5, y: 36}
+        - {x: 13.5, y: 29}
+        - {x: 11.5, y: 31}
+        - {x: 6.5, y: 49}
+        - {x: -3.5, y: 49}
+        - {x: -13.5, y: 41}
+        - {x: -19.5, y: 13}
+        - {x: -19.5, y: -19}
+        - {x: -10.5, y: -49}
+        - {x: 14.5, y: -49}
+        - {x: 19.5, y: -40}
+        - {x: 19.5, y: 39}
+        - {x: 14.5, y: 47}
+    - name: sucai_60
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 96
+        width: 46
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 75}
+        - {x: -3, y: 66}
+        - {x: -9, y: 58}
+        - {x: -23, y: -16}
+        - {x: -23, y: -75}
+        - {x: -17, y: -75}
+        - {x: 23, y: -22}
+        - {x: 23, y: 75}
+    - name: sucai_61
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 93
+        width: 66
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 85}
+        - {x: 0, y: 83}
+        - {x: -9, y: 72}
+        - {x: -26, y: -25}
+        - {x: -26, y: -85}
+        - {x: 10, y: -85}
+        - {x: 31, y: -12}
+        - {x: 31, y: 85}
+      - - {x: -33, y: -75}
+        - {x: -30, y: -76}
+        - {x: -27, y: -75}
+        - {x: -27, y: -72}
+        - {x: -30, y: -69}
+        - {x: -33, y: -69}
+      - - {x: 28, y: -66}
+        - {x: 27, y: -68}
+        - {x: 27, y: -71}
+        - {x: 29, y: -72}
+        - {x: 33, y: -72}
+        - {x: 33, y: -67}
+        - {x: 32, y: -66}
+      - - {x: -7, y: -63}
+        - {x: -9, y: -65}
+        - {x: -9, y: -67}
+        - {x: -7, y: -69}
+        - {x: -5, y: -69}
+        - {x: -3, y: -67}
+        - {x: -3, y: -65}
+        - {x: -5, y: -63}
+      - - {x: 3, y: -46}
+        - {x: 1, y: -48}
+        - {x: 1, y: -51}
+        - {x: 4, y: -54}
+        - {x: 7, y: -54}
+        - {x: 9, y: -52}
+        - {x: 9, y: -50}
+        - {x: 6, y: -46}
+      - - {x: 4, y: -40}
+        - {x: 1, y: -43}
+        - {x: 2, y: -46}
+        - {x: 6, y: -46}
+        - {x: 8, y: -44}
+        - {x: 8, y: -42}
+        - {x: 6, y: -40}
+      - - {x: -9, y: 65}
+        - {x: -12, y: 65}
+        - {x: -13, y: 63}
+        - {x: -13, y: 60}
+        - {x: -11, y: 59}
+        - {x: -8, y: 59}
+        - {x: -7, y: 61}
+        - {x: -7, y: 64}
+    - name: sucai_62
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 97
+        width: 46
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 85}
+        - {x: -23, y: 39}
+        - {x: -23, y: -85}
+        - {x: -4, y: -85}
+        - {x: 23, y: -58}
+        - {x: 23, y: 76}
+        - {x: 22, y: 85}
+      - - {x: -2, y: -63}
+        - {x: -4, y: -65}
+        - {x: -4, y: -67}
+        - {x: -2, y: -69}
+        - {x: 0, y: -69}
+        - {x: 2, y: -67}
+        - {x: 2, y: -65}
+        - {x: 0, y: -63}
+      - - {x: 8, y: -45}
+        - {x: 6, y: -47}
+        - {x: 6, y: -51}
+        - {x: 8, y: -53}
+        - {x: 12, y: -53}
+        - {x: 14, y: -51}
+        - {x: 14, y: -49}
+        - {x: 11, y: -45}
+      - - {x: 8, y: -38}
+        - {x: 6, y: -42}
+        - {x: 6, y: -44}
+        - {x: 8, y: -45}
+        - {x: 10, y: -45}
+        - {x: 13, y: -42}
+        - {x: 13, y: -40}
+        - {x: 11, y: -38}
+      - - {x: -12, y: 62}
+        - {x: -14, y: 61}
+        - {x: -14, y: 57}
+        - {x: -13, y: 56}
+        - {x: -9, y: 56}
+        - {x: -8, y: 58}
+        - {x: -8, y: 60}
+        - {x: -9, y: 62}
+    - name: sucai_63
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 131
+        width: 42
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 73}
+        - {x: -21, y: 57}
+        - {x: -21, y: -4}
+        - {x: -15, y: -50}
+        - {x: -5, y: -73}
+        - {x: 15, y: -73}
+        - {x: 21, y: -46}
+        - {x: 21, y: 53}
+        - {x: 5, y: 73}
+    - name: sucai_64
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 181
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 26
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_66
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 152
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 42
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 60.5}
+        - {x: 9, y: 57.5}
+        - {x: 5, y: 65.5}
+        - {x: 4, y: 66.5}
+        - {x: -5, y: 66.5}
+        - {x: -6, y: 65.5}
+        - {x: -21, y: 27.5}
+        - {x: -21, y: -9.5}
+        - {x: -14, y: -52.5}
+        - {x: -6, y: -66.5}
+        - {x: 4, y: -66.5}
+        - {x: 21, y: -55.5}
+        - {x: 21, y: 62.5}
+        - {x: 11, y: 62.5}
+    - name: sucai_68
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 60.5}
+        - {x: 9, y: 55.5}
+        - {x: 9, y: 51.5}
+        - {x: 5, y: 60.5}
+        - {x: -8, y: 60.5}
+        - {x: -21, y: 40.5}
+        - {x: -21, y: -43.5}
+        - {x: -18, y: -60.5}
+        - {x: 13, y: -60.5}
+        - {x: 21, y: -22.5}
+        - {x: 21, y: 42.5}
+        - {x: 14, y: 60.5}
+    - name: sucai_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 29
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 55.5}
+        - {x: 9, y: 51.5}
+        - {x: 5, y: 60.5}
+        - {x: -9, y: 60.5}
+        - {x: -21, y: 23.5}
+        - {x: -21, y: -34.5}
+        - {x: -12, y: -60.5}
+        - {x: 14, y: -60.5}
+        - {x: 21, y: -33.5}
+        - {x: 21, y: 46.5}
+        - {x: 13, y: 60.5}
+    - name: sucai_70
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 29}
+        - {x: -16.5, y: 7}
+        - {x: -16.5, y: -22}
+        - {x: -7.5, y: -29}
+        - {x: 9.5, y: -29}
+        - {x: 16.5, y: -23}
+        - {x: 16.5, y: 18}
+        - {x: 14.5, y: 28}
+        - {x: 13.5, y: 29}
+    - name: sucai_72
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 12
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 39}
+        - {x: -17.5, y: 34}
+        - {x: -17.5, y: -36}
+        - {x: -16.5, y: -39}
+        - {x: 17.5, y: -39}
+        - {x: 17.5, y: 37}
+        - {x: 8.5, y: 39}
+    - name: sucai_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 853
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 83.5}
+        - {x: -25, y: 58.5}
+        - {x: -25, y: -32.5}
+        - {x: -12, y: -83.5}
+        - {x: 25, y: -83.5}
+        - {x: 25, y: 83.5}
+      - - {x: 8, y: 68.5}
+        - {x: 13, y: 52.5}
+        - {x: 19, y: 52.5}
+        - {x: 19, y: 65.5}
+        - {x: 17, y: 78.5}
+        - {x: 13, y: 83.5}
+        - {x: 10, y: 83.5}
+        - {x: 8, y: 82.5}
+      - - {x: -12, y: 80.5}
+        - {x: -18, y: 74.5}
+        - {x: -18, y: 59.5}
+        - {x: -12, y: 59.5}
+        - {x: -9, y: 65.5}
+        - {x: -9, y: 79.5}
+        - {x: -10, y: 80.5}
+    - name: sucai_78
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 531
+        width: 27
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_14
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 285
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sucai_11
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 406
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 28.5}
+        - {x: -20.5, y: 12.5}
+        - {x: -20.5, y: -25.5}
+        - {x: -17.5, y: -28.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 20.5, y: 28.5}
+    - name: sucai_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 201
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+    - name: sucai_15
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 182
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 47.5}
+        - {x: -26, y: -20.5}
+        - {x: -20, y: -47.5}
+        - {x: 11, y: -47.5}
+        - {x: 26, y: -10.5}
+        - {x: 26, y: 45.5}
+        - {x: 20, y: 47.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
